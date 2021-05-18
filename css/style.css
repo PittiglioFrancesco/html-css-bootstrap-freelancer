@@ -16,6 +16,12 @@
     width: 50%;
 }
 
+.style2{
+    background-color: violet;
+    width: 30%;
+    height: 50px;
+}
+
 .nested-style{
     background-color: blue;
     width: 100%;
