@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* debug */
+
+.debug{
+    background-color: greenyellow;
+    height: 500px;
+}
+
+.style{
+    background-color: red;
+    width: 50%;
+}
