@@ -13,7 +13,7 @@
 /* riga start bootstrap */
 
 .img-start{
-    width: 50%;  
+    width: 30%;  
 }
 
 .linea{
@@ -23,10 +23,20 @@
     border-radius: 5px;
 }
 
+/* portfolio */
+
+.portfolio-img{
+    width: 110%;
+}
+
 /* colori */
 
 .white{
     color: white !important;
+}
+
+.bgc1{
+    background-color: #1DBB9C;
 }
 
 /* debug */
