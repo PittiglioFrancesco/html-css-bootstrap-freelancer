@@ -4,6 +4,18 @@
     box-sizing: border-box;
 }
 
+/* navbar */
+
+.bgc-navbar{
+    background-color: #2B3F50;
+}
+
+/* colori */
+
+.white{
+    color: white !important;
+}
+
 /* debug */
 
 .debug{
