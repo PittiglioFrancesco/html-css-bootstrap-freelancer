@@ -10,6 +10,19 @@
     background-color: #2B3F50;
 }
 
+/* riga start bootstrap */
+
+.img-start{
+    width: 50%;  
+}
+
+.linea{
+    background-color: white;
+    height: 5px;
+    width: 30%;
+    border-radius: 5px;
+}
+
 /* colori */
 
 .white{
